@@ -1,4 +1,14 @@
+<div align="center">
+  
 ### Hi there 👋
+
+## 💻 My Tech Stack:
+[![React, Next.js, Material-UI, Node.js, Nestjs, JavaScript, TypeScript, AWS, Docker, Git, Idea, Linux, MySQL, PostgreSQL](https://skillicons.dev/icons?i=react,next,materialui,nodejs,nestjs,js,ts,aws,docker,git,idea,linux,mysql,postgres)](https://skillicons.dev)
+
+## 📖 Read My Blogs:
+
+## 🏆 My Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emulienfou&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **emulienfou/emulienfou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
