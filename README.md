@@ -1,6 +1,13 @@
-<div align="center">
-  
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm David SANCHEZ</h1>
+<h3 align="center">A passionate Senior Full-Stack web developer from Montreal 🇨🇦</h3>
+
+- 🔭 I’m currently working on **BeatPlatform**
+- 🌱 I’m currently learning **Next.js, Nest.js, Typescript**
+- 👨‍💻 All of my projects are available at [https://davidsanchez.me/projects](https://davidsanchez.me/projects)
+- 📝 I regularly write articles on [https://davidsanchez.me/blog](https://davidsanchez.me/blog)
+- 💬 Ask me about **React, Next.js, TypeScript**
+- 📫 How to reach me **david38sanchez@gmail.com**
+- 📄 Know about my experiences [https://davidsanchez.me/about](https://davidsanchez.me/about)
 
 ### ✍️ Random Dev Quote
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
@@ -33,7 +40,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=emulienfou&icon=5&color=1)](https://visitcount.itsvg.in)
