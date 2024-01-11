@@ -23,7 +23,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=emulienfou&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=emulienfou&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
+![](https://github-contributor-stats.vercel.app/api?username=emulienfou&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <!--
 **emulienfou/emulienfou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,6 +38,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
----
-[![](https://visitcount.itsvg.in/api?id=emulienfou&icon=5&color=1)](https://visitcount.itsvg.in)
