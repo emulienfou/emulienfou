@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on [BeatPlatform](https://music.davidsanchez.me)
 - 🌱 I’m currently learning **Next.js, Nest.js, Typescript**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/emulienfou?tab=repositories)
-- 📝 I regularly write articles on [My Blog](https://davidsanchez.me/blog)
 - 💬 Ask me about **React, Next.js, TypeScript**
 - 📫 How to reach me **david38sanchez@gmail.com**
 - 📄 Know about my experiences [About Me](https://davidsanchez.me/about)
