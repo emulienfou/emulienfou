@@ -17,7 +17,7 @@
 
 ## 🏆 GitHub Stats
 [![emulienfou's GitHub stats](https://github-readme-stats.vercel.app/api?username=emulienfou&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emulienfou&hide=php,c&langs_count=10&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emulienfou&hide=c,m4&langs_count=10&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=emulienfou&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
