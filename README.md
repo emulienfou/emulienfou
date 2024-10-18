@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm David SANCHEZ</h1>
 <h3 align="center">A passionate Senior Full-Stack web developer from Montreal 🇨🇦</h3>
 
-- 🔭 I’m currently working on [BeatPlatform](https://music.davidsanchez.me)
+- 🔭 I’m currently working on [BeatPlatform](https://beatplatform.davidsanchez.me)
 - 🌱 I’m currently learning **Next.js, Nest.js, Typescript**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/emulienfou?tab=repositories)
 - 💬 Ask me about **React, Next.js, TypeScript**
