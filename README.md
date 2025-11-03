@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Senior Full-Stack web developer from Montreal 🇨🇦</h3>
 
 - 🔭 I’m currently working on [BeatPlatform](https://beatplatform.app)
-- 🌱 I’m currently learning **Next.js, Nest.js, Typescript**
+- 🌱 I’m currently building modern web apps with **Next.js** and **TypeScript**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/emulienfou?tab=repositories)
 - 💬 Ask me about **React, Next.js, TypeScript**
 - 📫 How to reach me **david38sanchez@gmail.com**
