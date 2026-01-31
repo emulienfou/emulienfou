@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋, I'm David SANCHEZ</h1>
-<h3 align="center">A passionate Senior Full-Stack web developer from Montreal 🇨🇦</h3>
+# Hi there 👋, I'm David SANCHEZ
 
+A passionate Senior Full-Stack web developer from Montreal 🇨🇦
 - 🔭 I’m currently working on [BeatPlatform](https://beatplatform.app)
 - 🌱 I’m currently building modern web apps with **Next.js** and **TypeScript**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/emulienfou?tab=repositories)
@@ -8,11 +8,11 @@
 - 📫 How to reach me **david38sanchez@gmail.com**
 - 📄 Know about my experiences [About Me](https://davidsanchez.me/about)
 
-## ✍️ Random Dev Quote
-[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+### Legacy Work
+- **[Dwoo](https://github.com/dwoo-project)** - php template engine
 
 ## 💻 My Tech Stack
-[![React, Next.js, Material-UI, Node.js, Nestjs, JavaScript, TypeScript, AWS, Docker, Git, Idea, VSCode, Linux, MySQL, PostgreSQL](https://skillicons.dev/icons?i=react,next,materialui,nodejs,nestjs,js,ts,aws,docker,git,idea,vscode,linux,mysql,postgres)](https://skillicons.dev)
+[![React, Next.js, TailwindCSS, Node.js, Nestjs, JavaScript, TypeScript, AWS, Docker, Git, Idea, VSCode, Linux, MySQL, PostgreSQL](https://skillicons.dev/icons?i=react,next,materialui,nodejs,nestjs,js,ts,aws,docker,git,idea,vscode,linux,mysql,postgres)](https://skillicons.dev)
 
 ## 🏆 GitHub Stats
 [![emulienfou's GitHub stats](https://stats.davidsanchez.me/api?username=emulienfou&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
