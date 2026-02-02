@@ -1,7 +1,7 @@
 # Hi there 👋, I'm David
 
 A passionate Senior Full-Stack web developer from France, living now in Montreal 🇨🇦
-- 🔭 I’m currently working on [BeatPlatform](https://beatplatform.app)
+- 🔭 I’m currently working on [EDMDb](https://edmdb.net)
 - 🌱 I’m currently building modern web apps with **Next.js** and **TypeScript**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/emulienfou?tab=repositories)
 - 💬 Ask me about **React, Next.js, TypeScript**
@@ -10,6 +10,7 @@ A passionate Senior Full-Stack web developer from France, living now in Montreal
 
 ### Legacy Work
 - **[Dwoo](https://github.com/dwoo-project)** - php template engine
+- **[pdo_4d](https://github.com/emulienfou/pdo_4d)** - PDO_4D is a driver for the PHP Data Objects (PDO) interface to enable access from PHP to 4D databases
 
 ## 💻 My Tech Stack
 
