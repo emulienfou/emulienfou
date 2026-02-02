@@ -1,6 +1,6 @@
-# Hi there 👋, I'm David SANCHEZ
+# Hi there 👋, I'm David
 
-A passionate Senior Full-Stack web developer from Montreal 🇨🇦
+A passionate Senior Full-Stack web developer from France, living now in Montreal 🇨🇦
 - 🔭 I’m currently working on [BeatPlatform](https://beatplatform.app)
 - 🌱 I’m currently building modern web apps with **Next.js** and **TypeScript**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/emulienfou?tab=repositories)
@@ -12,17 +12,19 @@ A passionate Senior Full-Stack web developer from Montreal 🇨🇦
 - **[Dwoo](https://github.com/dwoo-project)** - php template engine
 
 ## 💻 My Tech Stack
-[![React, Next.js, TailwindCSS, Node.js, Nestjs, JavaScript, TypeScript, AWS, Docker, Git, Idea, VSCode, Linux, MySQL, PostgreSQL](https://skillicons.dev/icons?i=react,next,materialui,nodejs,nestjs,js,ts,aws,docker,git,idea,vscode,linux,mysql,postgres)](https://skillicons.dev)
 
-## 🏆 GitHub Stats
-[![emulienfou's GitHub stats](https://stats.davidsanchez.me/api?username=emulienfou&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://stats.davidsanchez.me/api/top-langs/?username=emulienfou&hide=c,m4&langs_count=10&theme=dark&hide_border=true)](https://stats.davidsanchez.me)
+### Environment
+![MacBook Pro, Brave, Chromium, Warp](https://go-skill-icons.vercel.app/api/icons?i=macos,brave,chromium,warp)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=emulienfou&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+### Languages
+![HTML5, CSS3, JavaScript, TypeScript, Node.js](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,nodejs)
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=emulienfou&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### Technologies
+![React, Next.js, TailwindCSS, Shadcn/UI](https://go-skill-icons.vercel.app/api/icons?i=react,next,tailwindcss,shadcn)
+
+### Tools
+![GitHub, Vercel, AWS, Docker, MySQL, PostgreSQL, WEbStorm, Claude](https://go-skill-icons.vercel.app/api/icons?i=github,vercel,aws,docker,mysql,postgres,webstorm,claude)
+
 <!--
 **emulienfou/emulienfou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
