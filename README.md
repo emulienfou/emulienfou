@@ -8,6 +8,9 @@ A passionate Senior Full-Stack web developer from France, living now in Montreal
 - 📫 How to reach me **david38sanchez@gmail.com**
 - 📄 Know about my experiences [About Me](https://davidsanchez.me/about)
 
+### Current Work
+- **[WorkflowBuilder Marketplace](https://workflow-builder-marketplace.vercel.app)** - AI Workflow Builder Plugins Registry
+
 ### Legacy Work
 - **[Dwoo](https://github.com/dwoo-project)** - php template engine
 - **[pdo_4d](https://github.com/emulienfou/pdo_4d)** - PDO_4D is a driver for the PHP Data Objects (PDO) interface to enable access from PHP to 4D databases
