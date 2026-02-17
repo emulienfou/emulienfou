@@ -9,6 +9,8 @@ A passionate Senior Full-Stack web developer from France, living now in Montreal
 - 📄 Know about my experiences [About Me](https://davidsanchez.me/about)
 
 ### Current Work
+- **[EDMDb](https://edmdb.net)** - Discover festivals, follow artists, and explore events near you — powered by the world’s electronic dance music database.
+- **[next-workflow-builder](https://github.com/emulienfou/next-workflow-builder)** - A Next.js plugin for visual workflow building with drag-and-drop, code generation, and AI-powered automation.
 - **[WorkflowBuilder Marketplace](https://workflow-builder-marketplace.vercel.app)** - AI Workflow Builder Plugins Registry
 
 ### Legacy Work
