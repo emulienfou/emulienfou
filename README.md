@@ -11,6 +11,7 @@ A passionate Senior Full-Stack web developer from France, living now in Montreal
 
 ### Current Work
 - **[EDMDb](https://edmdb.net)** - Discover festivals, follow artists, and explore events near you — powered by the world’s electronic dance music database.
+- **[SyndicPlus](https://syndicplus.ca)** - Building Syndic+, an all-in-one SaaS platform for Quebec condo syndicates.
 
 ### Legacy Work
 - **[next-workflow-builder](https://github.com/emulienfou/next-workflow-builder)** - A Next.js plugin for visual workflow building with drag-and-drop, code generation, and AI-powered automation.
