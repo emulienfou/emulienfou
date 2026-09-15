@@ -1,6 +1,7 @@
 # Hi there 👋, I'm David
 
 A passionate Senior Full-Stack web developer from France, living now in Montreal 🇨🇦
+- 💼 I'm currently workin at [Bandsintown](https://bandsintown.com)
 - 🔭 I’m currently working on [EDMDb](https://edmdb.net)
 - 🌱 I’m currently building modern web apps with **Next.js** and **TypeScript**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/emulienfou?tab=repositories)
