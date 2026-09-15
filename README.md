@@ -10,9 +10,9 @@ A passionate Senior Full-Stack web developer from France, living now in Montreal
 
 ### Current Work
 - **[EDMDb](https://edmdb.net)** - Discover festivals, follow artists, and explore events near you — powered by the world’s electronic dance music database.
-- **[next-workflow-builder](https://github.com/emulienfou/next-workflow-builder)** - A Next.js plugin for visual workflow building with drag-and-drop, code generation, and AI-powered automation.
 
 ### Legacy Work
+- **[next-workflow-builder](https://github.com/emulienfou/next-workflow-builder)** - A Next.js plugin for visual workflow building with drag-and-drop, code generation, and AI-powered automation.
 - **[Dwoo](https://github.com/dwoo-project)** - php template engine
 - **[pdo_4d](https://github.com/emulienfou/pdo_4d)** - PDO_4D is a driver for the PHP Data Objects (PDO) interface to enable access from PHP to 4D databases
 
